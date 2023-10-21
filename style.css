@@ -19,6 +19,7 @@ body {
     width: 75%;
     font-size: 1.2rem;
     border: none;
+    border-radius: 5px;
     font-weight: 800;
     color: aliceblue;
     background-color: #005ab1;
@@ -29,8 +30,10 @@ body {
     width: 75%;
     display: inline-block;
     border: none;
+    border-radius: 5px;
     background-color: #00c283;
     color: aliceblue;
     font-family: system-ui;
     font-weight: 800;
+    text-decoration: none;
 }
