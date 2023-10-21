@@ -28,8 +28,9 @@ body {
     line-height: 50px;
     width: 75%;
     display: inline-block;
-    border-width: none;
+    border: none;
     background-color: #00c283;
     color: aliceblue;
+    font-family: system-ui;
     font-weight: 800;
 }
