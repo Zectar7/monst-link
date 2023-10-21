@@ -1,0 +1,35 @@
+body {
+    margin: auto;
+    text-align:center;
+}
+
+#mnst-url {
+    height: 50px;
+    width: 75%;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+#msg {
+    margin-bottom: 2px;
+}
+
+#genButton {
+    height: 50px;
+    width: 75%;
+    font-size: 1.2rem;
+    border: none;
+    font-weight: 800;
+    color: aliceblue;
+    background-color: #005ab1;
+}
+
+#join {
+    line-height: 50px;
+    width: 75%;
+    display: inline-block;
+    border-width: none;
+    background-color: #00c283;
+    color: aliceblue;
+    font-weight: 800;
+}
